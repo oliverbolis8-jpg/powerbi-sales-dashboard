@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-05-19 193952" src="https://github.com/user-attachments/assets/00c41996-3d26-4fbf-9c7d-6d0db161997e" />
 # Sales Dashboard Analysis using Power BI
 
 ## Project Overview
