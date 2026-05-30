@@ -7,6 +7,11 @@
 
 This project is an interactive sales dashboard built using Power BI. The dashboard analyzes sales performance across different states, product categories, and time periods.
 
+## Internship Information
+
+This project was completed as part of the Data Analytics Internship Program at SkillInfyTech.
+
+
 ## Objectives
 
 * Analyze sales performance by region and category
